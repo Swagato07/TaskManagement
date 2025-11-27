@@ -101,7 +101,7 @@ The application includes 5 sample tasks demonstrating different features:
 - Completed tasks for statistics
 
 ## Technical Details
-- **Language**: Java (GraalVM 22.3)
+- **Language**: Java 22.3
 - **No external dependencies**: Uses only Java Core API
 - **Packages Used**: java.util, java.time, java.lang
 - **Design Pattern**: Object-oriented with inheritance hierarchy
